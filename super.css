@@ -55,7 +55,7 @@ input[type=checkbox]{
  /* First Image */
 
 .background{
-        background-image:url('Images/fruits.jpg');
+        background-image:url('images/fruits.jpg');
         background-repeat:no-repeat;
         /* padding-top:10px; */
         background-size: cover;
@@ -274,7 +274,7 @@ input[type=checkbox]{
 }
  /* Bigvegimg  */
  .vegeimage{
-    background-image:url("Images/vegeimage.jpg");
+    background-image:url("images/vegeimage.jpg");
    margin-top:10px;
     background-size: cover;
     height:100vh;
